@@ -1,0 +1,23 @@
+{
+  "name": "dropzone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalpzarzycki/Dropzone.git"
+  },
+  "author": "Michal Zarzycki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michalpzarzycki/Dropzone/issues"
+  },
+  "homepage": "https://github.com/michalpzarzycki/Dropzone#readme",
+  "dependencies": {
+    "dropzone": "^5.9.2",
+    "express": "^4.17.1"
+  }
+}
